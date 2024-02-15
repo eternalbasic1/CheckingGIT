@@ -3,3 +3,4 @@ secondNum = 9
 
 answer = firstNum * secondNum
 print("the product is ", answer)
+# vantage 1
